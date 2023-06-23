@@ -32,7 +32,7 @@ I'm always open to collaboration and discussions related to computational biolog
 ## 🌐 Find Me Online
 
 - LinkedIn: [www.linkedin.com/in/pascal-baertschi/]
-- ResearchGate: [TBD]
+- ResearchGate: [www.researchgate.net/profile/Pascal-Baertschi]
 - Personal Website: [TBD]
 
 Thank you for visiting my profile! If you have any questions or would like to connect, feel free to reach out. Have a great day! 😄
