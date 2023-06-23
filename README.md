@@ -27,13 +27,13 @@ I am currently working on a research paper titled "Hysteresis in symmetric ecosy
 
 ## 📫 Contact Me
 
-I'm always open to collaboration and discussions related to computational biology, bioinformatics, or any related projects. You can reach me via email at [your@email.com].
+I'm always open to collaboration and discussions related to computational biology, bioinformatics, or any related projects. You can reach me via email at [bartschi.compbio@gmail.com].
 
 ## 🌐 Find Me Online
 
-- LinkedIn: [Your LinkedIn profile URL]
-- ResearchGate: [Your ResearchGate profile URL]
-- Personal Website: [URL of your personal website or blog, if applicable]
+- LinkedIn: [www.linkedin.com/in/pascal-baertschi/]
+- ResearchGate: [TBD]
+- Personal Website: [TBD]
 
 Thank you for visiting my profile! If you have any questions or would like to connect, feel free to reach out. Have a great day! 😄
 
