@@ -1,6 +1,6 @@
 # Hello, I'm Pascal! 👋
 
-Welcome to my GitHub profile! I'm currently studying Computational Biology and Bioinformatics at ETH (Swiss Federal Institute of Technology) and working on a research paper about symmetric hysteresis dynamics in the department for Evolutionary Biology of UZH (University of Zurich). I'm passionate about applying computational methods and data analysis techniques to understand biological systems.
+Welcome to my GitHub profile! I will persue my Masters degree in Computational Biology and Bioinformatics at ETH (Swiss Federal Institute of Technology) and working on a research paper about symmetric hysteresis dynamics in the department for Evolutionary Biology of UZH (University of Zurich). I'm passionate about applying computational methods and data analysis techniques to understand biological systems.
 
 ## 🔬 Research Interests
 
