@@ -1,10 +1,15 @@
 # Hello, I'm Pascal! 👋
 
 ✏️ Pursuing a MSc in [Computational Biology and Bioinformatics at ETH](https://cbb.ethz.ch/).
+
 🔬 Research Student at the department for Evolutionary Biology and Environmental Studies in the [predictive ecology group](https://www.ieu.uzh.ch/en/research/ecology/extinction.html)
+
 🎓 Bachelor of Science in Biology (Major) and Computational Science (Minor)
+
 🌱 Interested in learning and applying cutting-edge concepts of Systems Biology on todays challenges to contribute towards resolving the complexity of life.
+
 📟 Mainly developing projects in Python and R.
+
 🔧 My Skills:
       - Machine Learning: scikit-learn
       - Data analysis and visualization: Pandas, NumPy, Matplotlib, ggplot2, tidyverse
@@ -13,8 +18,11 @@
       - Mathematical modeling: Ordinary differential equations (ODEs), stochastic modeling
       - Version control: Git, GitHub
       - Typesetting: LaTeX
+      
 📫 Always open to collaboration or discussion related to computaional biology, bioinformatics, or any related topic. Visit my personal [website](https://pascalbartschi.github.io), or contact me on [LinkedIn](https://www.linkedin.com/in/pascal-baertschi/).
 
+
+<!--
 
 
 Welcome to my GitHub profile! I will persue my Masters degree in Computational Biology and Bioinformatics at ETH (Swiss Federal Institute of Technology) and working on a research paper about symmetric hysteresis dynamics in the department for Evolutionary Biology of UZH (University of Zurich). I'm passionate about applying computational methods and data analysis techniques to understand biological systems.
@@ -55,7 +63,7 @@ I'm always open to collaboration and discussions related to computational biolog
 Thank you for visiting my profile! If you have any questions or would like to connect, feel free to reach out. Have a great day! 😄
 
 
-
+-->
 
 <!--
 **pascalbartschi/pascalbartschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
