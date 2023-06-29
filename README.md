@@ -11,13 +11,13 @@
 📟 Mainly developing projects in Python and R.
 
 🔧 My Skills:
-      - Machine Learning: scikit-learn
-      - Data analysis and visualization: Pandas, NumPy, Matplotlib, ggplot2, tidyverse
-      - Bioinformatics tools: Biopython, BLAST, NCBI databases, BioconductoR
-      - Statistical analysis: RStudio, scipy, statsmodels
-      - Mathematical modeling: Ordinary differential equations (ODEs), stochastic modeling
-      - Version control: Git, GitHub
-      - Typesetting: LaTeX
+- Machine Learning: scikit-learn
+- Data analysis and visualization: Pandas, NumPy, Matplotlib, ggplot2, tidyverse
+- Bioinformatics tools: Biopython, BLAST, NCBI databases, BioconductoR
+- Statistical analysis: RStudio, scipy, statsmodels
+- Mathematical modeling: Ordinary differential equations (ODEs), stochastic modeling
+- Version control: Git, GitHub
+- Typesetting: LaTeX
       
 📫 Always open to collaboration or discussion related to computaional biology, bioinformatics, or any related topic. Visit my personal [website](https://pascalbartschi.github.io), or contact me on [LinkedIn](https://www.linkedin.com/in/pascal-baertschi/).
 
