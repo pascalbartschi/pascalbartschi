@@ -15,7 +15,7 @@
 - Data analysis and visualization: Pandas, NumPy, Matplotlib, ggplot2, tidyverse
 - Bioinformatics tools: Biopython, BLAST, NCBI databases, BioconductoR
 - Statistical analysis: RStudio, scipy, statsmodels
-- Mathematical modeling: Ordinary differential equations (ODEs), stochastic modeling
+- Mathematical modeling: ODEs/PDEs, stochastic modeling
 - Version control: Git, GitHub
 - Typesetting: LaTeX
       
