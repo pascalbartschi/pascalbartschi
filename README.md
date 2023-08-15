@@ -19,11 +19,17 @@
 - Version control: Git, GitHub
 - Typesetting: LaTeX
       
-📫 Always open to collaboration or discussion related to computaional biology, bioinformatics, or any related topic. Visit my personal [website](https://pascalbartschi.github.io), or contact me on [LinkedIn](https://www.linkedin.com/in/pascal-baertschi/).
+📫 Always open to collaboration or discussion related to computaional biology, bioinformatics, or any related topic. Please, contact me on [LinkedIn](https://www.linkedin.com/in/pascal-baertschi/) or [mail me](mailto:compbio.baertschi@gmail.com) your ideas. 
 
 
 <!--
 
+to be added:
+
+ Visit my personal [website](https://pascalbartschi.github.io), or
+
+
+ ===========================================================================
 
 Welcome to my GitHub profile! I will persue my Masters degree in Computational Biology and Bioinformatics at ETH (Swiss Federal Institute of Technology) and working on a research paper about symmetric hysteresis dynamics in the department for Evolutionary Biology of UZH (University of Zurich). I'm passionate about applying computational methods and data analysis techniques to understand biological systems.
 
