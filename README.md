@@ -6,8 +6,7 @@
 
 🎓 Bachelor of Science in Biology (Major) and Computational Science (Minor)
 
-🌱 Interested in learning and applying cutting-edge concepts of Systems Biology on todays challenges to contribute towards
-    resolving the complexity of life.
+🌱 Interested in learning and applying cutting-edge concepts of Systems Biology on todays challenges to contribute towards resolving the complexity of life.
 
 📟 Mainly developing projects in Python and R.
 
