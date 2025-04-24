@@ -3,7 +3,7 @@
 
 
 ### 🔬 About Me
-- 🎓 Master's student at ETH Zurich, specializing in machine learning for scientific applications  
+- 🎓 Master's student of Computational Biology at ETH Zurich, specializing in machine learning for scientific applications  
 - 🧠 Interested in deep learning, probabilistic modeling, and neural operators applied to real-world data  
 - 🚑 Passionate about leveraging ML to tackle challenges in healthcare and the life sciences
 
