@@ -3,9 +3,10 @@
 
 
 ### 🔬 About Me
-- 🎓 Master's student at ETH, focusing on AI for scientific applications  
-- 🤖 Passionate about machine learning, computer vision, sustainability and drug design  
-- 📈 Exploring Bayesian methods, neural operators, and diffusion models  
+- 🎓 Master's student at ETH Zurich, specializing in machine learning for scientific applications  
+- 🧠 Interested in deep learning, probabilistic modeling, and neural operators applied to real-world data  
+- 🚑 Passionate about leveraging ML to tackle challenges in healthcare and the life sciences
+
 
 ### 🛠 Recent Projects
 
